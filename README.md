@@ -1,11 +1,7 @@
 # Design of a Standard Calculator
-
 ## AIM:
-
 To design a web application for a standard calculator.
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Fork the repository to your repository and clone it into vs code and start a django project.
 
@@ -20,17 +16,15 @@ Now using the command runserser start a django development server and access you
 
 ### Step 5:
 Now push everything into your github
-### Step 6:
 
+### Step 6:
 Validate the HTML and CSS code.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
 ## HTML :
-
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -71,7 +65,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## CSS :
-
 ```
 button{
     width: 100px;
@@ -132,7 +125,6 @@ body{
 }
 ```
 ## Javascript :
-
 ```
 const display = document.getElementById("display");
 
@@ -154,8 +146,8 @@ function calculate()
 }
 ```
 
-## OUTPUT:
+### OUTPUT:
 ![standard calculator](https://github.com/jabezs2005/standard-calculator/assets/147473463/835249dc-9334-4482-b51b-d43e928aba94)
 
-## Result:
+### Result:
 The calculator application has been created succesfully.
