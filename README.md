@@ -23,7 +23,7 @@ Validate the HTML and CSS code.
 ### Step 6:
 Publish the website in the given URL.
 
-## PROGRAM :
+### PROGRAM :
 ## HTML :
 ```
 <!DOCTYPE html>
@@ -58,8 +58,6 @@ Publish the website in the given URL.
             <button onclick="cleardisplay()" class="operator-btn">C</button>
         </div>
     </div>
-
-
     <script src="script/index.js"></script>
 </body>
 </html>
@@ -145,7 +143,6 @@ function calculate()
     }
 }
 ```
-
 ### OUTPUT:
 ![standard calculator](https://github.com/jabezs2005/standard-calculator/assets/147473463/835249dc-9334-4482-b51b-d43e928aba94)
 
