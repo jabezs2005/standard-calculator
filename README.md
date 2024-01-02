@@ -155,6 +155,7 @@ function calculate()
 ```
 
 ## OUTPUT:
+![standard calculator](https://github.com/jabezs2005/standard-calculator/assets/147473463/835249dc-9334-4482-b51b-d43e928aba94)
 
 ## Result:
 The calculator application has been created succesfully.
